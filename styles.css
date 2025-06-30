@@ -1,11 +1,4 @@
 body {
-color: rgb(100, 11, 11);
-background:rgb(221, 215, 215);
-margin: 0px;
-}
-
-header{
-    border-bottom: solid 2px rbg(42, 122, 228);
-    padding: 20px;
-
+color: white;
+background:black;
 }
